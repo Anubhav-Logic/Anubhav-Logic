@@ -1,4 +1,4 @@
-### Hi there, I'm AnubhavX 👋
+### Hi there, I'm ANUBHAV SINGH 👋
 
 Systems Engineer & Data Science Undergrad at **IIT Madras**.
 Focusing on Low-level Logic, Deep Tech, and First Principles thinking.
