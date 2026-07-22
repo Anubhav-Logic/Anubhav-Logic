@@ -5,5 +5,5 @@ Undergraduate Data Science student at IIT Madras with a strong interest in mathe
 
 ---
 [![](https://img.shields.io/badge/Medium-black?logo=medium)](https://medium.com/@AnubhavX)
-[![](https://img.shields.io/badge/X_(Twitter)-Connect_with_Logic-blue?logo=x)](https://twitter.com/anubhav_logic)
-[![](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-logic)
+[![](https://img.shields.io/badge/X_(Twitter)-blue?logo=x)](https://twitter.com/anubhav_logic)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-logic)
